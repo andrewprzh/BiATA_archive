@@ -1,0 +1,75 @@
+/* Colors taken from the BiATA logos: navy (2018-2019) and blue (2020-2021). */
+:root > * {
+  --md-primary-fg-color: #152861;
+  --md-primary-fg-color--light: #2a3f80;
+  --md-primary-fg-color--dark: #0d1a40;
+  --md-accent-fg-color: #2a7bb7;
+  --md-accent-fg-color--transparent: rgba(42, 123, 183, 0.1);
+}
+
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+  --md-typeset-a-color: #7db8e8;
+}
+
+/* The navy primary button disappears on the dark background. */
+[data-md-color-scheme="slate"] .md-typeset .md-button {
+  color: #7db8e8;
+  border-color: #7db8e8;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary {
+  background-color: #2a7bb7;
+  border-color: #2a7bb7;
+  color: #fff;
+}
+
+/* Year page header */
+.md-typeset .year-logo {
+  float: right;
+  width: 240px;
+  margin: 0 0 1rem 1.5rem;
+}
+
+.md-typeset .year-subtitle {
+  margin-top: -0.8em;
+  font-size: 1.05em;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .year-meta .twemoji {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset .md-button {
+  margin: 0 0.4rem 0.6rem 0;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .year-logo {
+    float: none;
+    display: block;
+    width: 200px;
+    margin: 0 0 1rem;
+  }
+}
+
+/* The logos are dark on transparent, so give them a light backing in dark mode. */
+[data-md-color-scheme="slate"] .md-typeset .year-logo,
+[data-md-color-scheme="slate"] .md-typeset .editions img {
+  background-color: #f5f6fa;
+  border-radius: 0.4rem;
+  padding: 0.5rem 0.8rem;
+}
+
+/* Speaker cards: name, then affiliation in muted text */
+.md-typeset .speakers > ul > li > p:last-child {
+  font-size: 0.85em;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Edition cards on the home page */
+.md-typeset .editions img {
+  display: block;
+  width: 220px;
+  margin: 0 auto 0.5rem;
+}

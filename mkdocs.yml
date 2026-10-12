@@ -1,0 +1,62 @@
+site_name: BiATA archive
+site_description: >-
+  Archive of BiATA, the international conference
+  "Bioinformatics: from Algorithms to Applications" (2017-2021)
+site_url: https://andrewprzh.github.io/BiATA_archive/
+repo_url: https://github.com/andrewprzh/BiATA_archive
+repo_name: BiATA_archive
+edit_uri: edit/main/docs/
+copyright: BiATA conference archive, 2017&ndash;2021
+
+nav:
+  - Home: index.md
+  - "2017": 2017.md
+  - "2018": 2018.md
+  - "2019": 2019.md
+  - "2020": 2020.md
+  - "2021": 2021.md
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/dna
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
