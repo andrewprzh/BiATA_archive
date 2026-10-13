@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-![BiATA 2021 logo](assets/logos/biata-2021.png){ .year-logo }
+![BiATA 2021 logo](../assets/logos/biata-2021.png){ .year-logo }
 
 # BiATA 2021
 
@@ -15,7 +15,8 @@ hide:
 :material-calendar: July 12–13, 2021 &emsp; :material-laptop: Online
 { .year-meta }
 
-[:material-book-open-variant: Book of abstracts](abstracts/BiATA-2021-abstracts.pdf){ .md-button .md-button--primary }
+[:material-book-open-variant: Book of abstracts](../abstracts/BiATA-2021-abstracts.pdf){ .md-button .md-button--primary }
+[:material-format-list-numbered: Program](schedule.md){ .md-button }
 
 ## About
 

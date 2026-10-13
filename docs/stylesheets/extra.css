@@ -73,3 +73,57 @@
   width: 220px;
   margin: 0 auto 0.5rem;
 }
+
+/* Schedule pages */
+.md-typeset .sched-back {
+  font-size: 0.8rem;
+}
+
+.md-typeset .schedule .md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset .schedule table:not([class]) {
+  display: table;
+  width: 100%;
+  font-size: 0.72rem;
+}
+
+.md-typeset .schedule td:first-child {
+  width: 7.5em;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .sched-muted {
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .sched-tag {
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 0 0.4em;
+  border-radius: 0.2rem;
+  font-size: 0.8em;
+  font-weight: 700;
+  line-height: 1.6;
+  white-space: nowrap;
+  color: var(--md-accent-fg-color);
+  background-color: var(--md-accent-fg-color--transparent);
+}
+
+.md-typeset .sched-tag--invited {
+  color: #fff;
+  background-color: var(--md-primary-fg-color);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .sched-tag {
+  color: #7db8e8;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .sched-tag--invited {
+  color: #fff;
+  background-color: #2a7bb7;
+}

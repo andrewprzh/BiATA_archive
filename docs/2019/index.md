@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-![BiATA 2019 logo](assets/logos/biata-2019.png){ .year-logo }
+![BiATA 2019 logo](../assets/logos/biata-2019.png){ .year-logo }
 
 # BiATA 2019
 
@@ -15,8 +15,8 @@ hide:
 :material-calendar: June 20–22, 2019 &emsp; :material-map-marker: Saint Petersburg, Russia &emsp; :material-account-group: In person
 { .year-meta }
 
-[:material-book-open-variant: Book of abstracts](abstracts/BiATA-2019-abstracts.pdf){ .md-button .md-button--primary }
-[:material-calendar-text: Program](https://biata2019.sched.com/){ .md-button }
+[:material-book-open-variant: Book of abstracts](../abstracts/BiATA-2019-abstracts.pdf){ .md-button .md-button--primary }
+[:material-calendar-clock: Schedule](schedule.md){ .md-button }
 [:material-youtube: Keynote videos](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVgaKTguX1Gy8YNS8beGGy1){ .md-button }
 
 ## About

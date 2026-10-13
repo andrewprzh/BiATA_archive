@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-![BiATA 2020 logo](assets/logos/biata-2020.png){ .year-logo }
+![BiATA 2020 logo](../assets/logos/biata-2020.png){ .year-logo }
 
 # BiATA 2020
 
@@ -15,7 +15,7 @@ hide:
 :material-calendar: July 27–28, 2020 &emsp; :material-laptop: Online
 { .year-meta }
 
-[:material-calendar-text: Program](https://biata2020.sched.com/){ .md-button }
+[:material-calendar-clock: Schedule](schedule.md){ .md-button }
 
 !!! note "Book of abstracts"
     A book of abstracts for BiATA 2020 is not available in this archive.

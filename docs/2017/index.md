@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-![BiATA 2017 logo](assets/logos/biata-2017.png){ .year-logo }
+![BiATA 2017 logo](../assets/logos/biata-2017.png){ .year-logo }
 
 # BiATA 2017
 
@@ -15,7 +15,7 @@ hide:
 :material-calendar: August 1–3, 2017 &emsp; :material-map-marker: Saint Petersburg, Russia &emsp; :material-account-group: In person
 { .year-meta }
 
-[:material-calendar-text: Program](https://biata2017.sched.com/){ .md-button }
+[:material-calendar-clock: Schedule](schedule.md){ .md-button }
 
 !!! note "Book of abstracts"
     A book of abstracts for BiATA 2017 is not available in this archive.

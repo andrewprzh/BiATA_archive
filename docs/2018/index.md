@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-![BiATA 2018 logo](assets/logos/biata-2018.png){ .year-logo }
+![BiATA 2018 logo](../assets/logos/biata-2018.png){ .year-logo }
 
 # BiATA 2018
 
@@ -15,8 +15,8 @@ hide:
 :material-calendar: July 16–19, 2018 &emsp; :material-map-marker: Saint Petersburg, Russia &emsp; :material-account-group: In person
 { .year-meta }
 
-[:material-book-open-variant: Book of abstracts](abstracts/BiATA-2018-abstracts.pdf){ .md-button .md-button--primary }
-[:material-calendar-text: Program](https://biata2018.sched.com/){ .md-button }
+[:material-book-open-variant: Book of abstracts](../abstracts/BiATA-2018-abstracts.pdf){ .md-button .md-button--primary }
+[:material-calendar-clock: Schedule](schedule.md){ .md-button }
 
 <!-- Keynote videos were published at https://www.lektorium.tv/ZPE, which no longer works (checked October 2026). -->
 

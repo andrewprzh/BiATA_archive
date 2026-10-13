@@ -10,11 +10,21 @@ copyright: BiATA conference archive, 2017&ndash;2021
 
 nav:
   - Home: index.md
-  - "2017": 2017.md
-  - "2018": 2018.md
-  - "2019": 2019.md
-  - "2020": 2020.md
-  - "2021": 2021.md
+  - "2017":
+      - 2017/index.md
+      - Schedule: 2017/schedule.md
+  - "2018":
+      - 2018/index.md
+      - Schedule: 2018/schedule.md
+  - "2019":
+      - 2019/index.md
+      - Schedule: 2019/schedule.md
+  - "2020":
+      - 2020/index.md
+      - Schedule: 2020/schedule.md
+  - "2021":
+      - 2021/index.md
+      - Program: 2021/schedule.md
 
 theme:
   name: material
@@ -40,6 +50,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.tabs
+    - navigation.indexes
     - navigation.top
     - navigation.footer
     - search.highlight

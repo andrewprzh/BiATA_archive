@@ -5,7 +5,7 @@ Archive website of **BiATA**, the international conference
 <https://andrewprzh.github.io/BiATA_archive/>
 
 Each edition has a page with its dates, invited speakers, committees and
-a link to the book of abstracts. The site is built with
+a link to the book of abstracts, plus a separate schedule page. The site is built with
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ## Layout
@@ -13,7 +13,9 @@ a link to the book of abstracts. The site is built with
 ```
 mkdocs.yml               site config and navigation
 docs/index.md            home page with the list of editions
-docs/<year>.md           one page per edition
+docs/<year>/index.md     edition overview: speakers, committees, links
+docs/<year>/schedule.md  schedule (2017-2020 from Sched; 2021 talk order
+                         from the book of abstracts)
 docs/abstracts/          books of abstracts (PDF)
 docs/assets/logos/       yearly BiATA logos
 docs/stylesheets/        colour and layout tweaks
@@ -21,7 +23,7 @@ docs/stylesheets/        colour and layout tweaks
 
 ## Editing
 
-Pages are plain Markdown. To add an edition, copy an existing `docs/<year>.md`,
+Pages are plain Markdown. To add an edition, copy an existing `docs/<year>/` folder,
 add it to `nav` in `mkdocs.yml` and add a card to `docs/index.md`.
 Put the book of abstracts into `docs/abstracts/` and link it from the page.
 
