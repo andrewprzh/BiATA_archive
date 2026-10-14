@@ -16,6 +16,7 @@ hide:
 { .year-meta }
 
 [:material-book-open-variant: Book of abstracts](../abstracts/BiATA-2019-abstracts.pdf){ .md-button .md-button--primary }
+[:material-file-document-outline: Abstracts in BMC Bioinformatics](https://doi.org/10.1186/s12859-019-3122-9){ .md-button }
 [:material-calendar-clock: Schedule](schedule.md){ .md-button }
 [:material-youtube: Keynote videos](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVgaKTguX1Gy8YNS8beGGy1){ .md-button }
 
@@ -32,35 +33,43 @@ Natural products discovery
 
 <div class="grid cards speakers" markdown>
 
--   **C. Titus Brown**
+-   ![C. Titus Brown](../assets/speakers/c-titus-brown.jpg){ .speaker-photo }
+    **C. Titus Brown**
 
     Associate Professor at the University of California, Davis
 
--   **Rob Finn**
+-   ![Rob Finn](../assets/speakers/rob-finn.jpg){ .speaker-photo }
+    **Rob Finn**
 
     Team Leader, Sequence Families at European Bioinformatics Institute, European Molecular Biology Laboratory (EMBL-EBI)
 
--   **M. Pilar Francino**
+-   ![M. Pilar Francino](../assets/speakers/m-pilar-francino.jpg){ .speaker-photo }
+    **M. Pilar Francino**
 
     Head, Genomics and Health Area of FISABIO (Public Health Valencian Region Foundation for the Promotion of Health and Biomedical Research)
 
--   **Terry Gaasterland**
+-   ![Terry Gaasterland](../assets/speakers/terry-gaasterland.jpg){ .speaker-photo }
+    **Terry Gaasterland**
 
     Professor of Computational Biology and Genomics; Director, Scripps Genome Center
 
--   **Rob Knight**
+-   ![Rob Knight](../assets/speakers/rob-knight.jpg){ .speaker-photo }
+    **Rob Knight**
 
     Professor at the University of California, San Diego, Co-founder of the Earth Microbiome Project
 
--   **Dmitry Morozov**
+-   ![Dmitry Morozov](../assets/speakers/dmitry-morozov.jpg){ .speaker-photo }
+    **Dmitry Morozov**
 
     CEO BIOCAD
 
--   **Marie-Agnès Petit**
+-   ![Marie-Agnès Petit](../assets/speakers/marie-agnes-petit.jpg){ .speaker-photo }
+    **Marie-Agnès Petit**
 
     Leader of the Phage team in the Micalis Institute, INRA
 
--   **Mick Watson**
+-   ![Mick Watson](../assets/speakers/mick-watson.jpg){ .speaker-photo }
+    **Mick Watson**
 
     Personal Chair of Bioinformatics and Computational Biology, Roslin Institute, University of Edinburgh
 

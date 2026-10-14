@@ -18,6 +18,9 @@ docs/<year>/schedule.md  schedule (2017-2020 from Sched; 2021 talk order
                          from the book of abstracts)
 docs/abstracts/          books of abstracts (PDF)
 docs/assets/logos/       yearly BiATA logos
+docs/assets/speakers/    invited speaker headshots
+docs/assets/photos/      event photos
+docs/files/              other documents (flyers)
 docs/stylesheets/        colour and layout tweaks
 ```
 
@@ -44,4 +47,7 @@ Every push to `main` builds the site and publishes it to GitHub Pages
 
 Content was taken from the original conference websites
 (`biata<year>.spbu.ru`, captured in February 2024) and, for 2021,
-from the Internet Archive.
+from the Internet Archive. Schedules come from the conferences' Sched pages.
+The 2017 photos, the 2018 flyer and the 2018 participant numbers come from
+the organizers' Google Drive. The 2019-2021 abstracts were also published in
+BMC Bioinformatics.

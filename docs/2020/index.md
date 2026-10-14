@@ -15,10 +15,8 @@ hide:
 :material-calendar: July 27–28, 2020 &emsp; :material-laptop: Online
 { .year-meta }
 
+[:material-file-document-outline: Abstracts in BMC Bioinformatics](https://doi.org/10.1186/s12859-020-03838-2){ .md-button .md-button--primary }
 [:material-calendar-clock: Schedule](schedule.md){ .md-button }
-
-!!! note "Book of abstracts"
-    A book of abstracts for BiATA 2020 is not available in this archive.
 
 ## About
 
@@ -36,35 +34,43 @@ Natural products discovery
 
 <div class="grid cards speakers" markdown>
 
--   **Inna Dubchak**
+-   ![Inna Dubchak](../assets/speakers/inna-dubchak.jpg){ .speaker-photo }
+    **Inna Dubchak**
 
     Affiliate, Lawrence Berkeley National Laboratory
 
--   **Robert Fulton**
+-   ![Robert Fulton](../assets/speakers/robert-fulton.jpg){ .speaker-photo }
+    **Robert Fulton**
 
     Director of Technical Development, McDonnell Genome Institute
 
--   **Terry Gaasterland**
+-   ![Terry Gaasterland](../assets/speakers/terry-gaasterland.jpg){ .speaker-photo }
+    **Terry Gaasterland**
 
     Professor of Computational Biology and Genomics; Director, Scripps Genome Center
 
--   **Rob Finn**
+-   ![Rob Finn](../assets/speakers/rob-finn.jpg){ .speaker-photo }
+    **Rob Finn**
 
     Team Leader, Sequence Families at European Bioinformatics Institute, European Molecular Biology Laboratory (EMBL-EBI)
 
--   **Phil Hugenholtz**
+-   ![Phil Hugenholtz](../assets/speakers/phil-hugenholtz.jpg){ .speaker-photo }
+    **Phil Hugenholtz**
 
     Professor of Microbiology; Director, Australian Centre for Ecogenomics, The University of Queensland, Australia
 
--   **Stephen Nayfach**
+-   ![Stephen Nayfach](../assets/speakers/stephen-nayfach.jpg){ .speaker-photo }
+    **Stephen Nayfach**
 
     Research Scientist, DOE Joint Genome Institute
 
--   **Pierre Peterlongo**
+-   ![Pierre Peterlongo](../assets/speakers/pierre-peterlongo.jpg){ .speaker-photo }
+    **Pierre Peterlongo**
 
     Inria Rennes Bretagne Atlantique, GenScale team
 
--   **Ekaterina Sakharova**
+-   ![Ekaterina Sakharova](../assets/speakers/ekaterina-sakharova.jpg){ .speaker-photo }
+    **Ekaterina Sakharova**
 
     EMBL-EBI
 

@@ -34,41 +34,98 @@ Genome assembly · Transcriptomics · Metagenomics · Immunogenomics
 
 <div class="grid cards speakers" markdown>
 
--   **Jillian Banfield**
+-   ![Jillian Banfield](../assets/speakers/jillian-banfield.jpg){ .speaker-photo }
+    **Jillian Banfield**
 
     Ph.D., UC Berkeley Professor (Earth & Planetary Science Dpt); Lawrence Berkeley National Laboratory Earth Sciences Division staff scientist
 
--   **Nicholas Loman**
+-   ![Nicholas Loman](../assets/speakers/nicholas-loman.jpg){ .speaker-photo }
+    **Nicholas Loman**
 
     Ph.D., Independent Research Fellow, Institute of Microbiology and Infection, University of Birmingham
 
--   **Jared Simpson**
+-   ![Jared Simpson](../assets/speakers/jared-simpson.jpg){ .speaker-photo }
+    **Jared Simpson**
 
     Ph.D., Principal Investigator, Ontario Institute for Cancer Research; Assistant Professor, Department of Computer Science, University of Toronto
 
--   **Adam Phillippy**
+-   ![Adam Phillippy](../assets/speakers/adam-phillippy.jpg){ .speaker-photo }
+    **Adam Phillippy**
 
     Ph.D., Investigator, Head, Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, NIH
 
--   **Dominique Lavenier**
+-   ![Dominique Lavenier](../assets/speakers/dominique-lavenier.jpg){ .speaker-photo }
+    **Dominique Lavenier**
 
     Ph.D., Research Director at the French National Center for Scientific Research
 
--   **Stephen O'Brien**
+-   ![Stephen O'Brien](../assets/speakers/stephen-o-brien.jpg){ .speaker-photo }
+    **Stephen O'Brien**
 
     Ph.D., American geneticist. Chief Scientific Officer at the Theodosius Dobzhansky Center for Genome Bioinformatics, St. Petersburg State University
 
--   **Sergey A. Lukyanov**
+-   ![Sergey A. Lukyanov](../assets/speakers/sergey-a-lukyanov.jpg){ .speaker-photo }
+    **Sergey A. Lukyanov**
 
     RNRMU rector, academician of Russian Academy of Sciences, Laureate of the State Prize of the Russian Federation in the field of science and technology in 2015
 
--   **Pavel A. Pevzner**
+-   ![Pavel A. Pevzner](../assets/speakers/pavel-a-pevzner.jpg){ .speaker-photo }
+    **Pavel A. Pevzner**
 
     The UCSD professor, Head of the Center for Algorithmic Biotechnology, SPbU
 
--   **Ekaterina Khrameeva**
+-   ![Ekaterina Khrameeva](../assets/speakers/ekaterina-khrameeva.jpg){ .speaker-photo }
+    **Ekaterina Khrameeva**
 
     PhD, Research Scientist, Skoltech Center for Data-Intensive Biomedicine and Biotechnology
+
+</div>
+
+## Photos
+
+Photos from the first day of the conference, August 1, 2017.
+
+<div class="grid photos" markdown>
+
+<figure markdown>
+[![Registration](../assets/photos/2017/01-registration.jpg)](../assets/photos/2017/01-registration.jpg)
+<figcaption>Registration</figcaption>
+</figure>
+
+<figure markdown>
+[![Sponsor exhibition](../assets/photos/2017/02-exhibition.jpg)](../assets/photos/2017/02-exhibition.jpg)
+<figcaption>Sponsor exhibition</figcaption>
+</figure>
+
+<figure markdown>
+[![The main hall](../assets/photos/2017/03-main-hall.jpg)](../assets/photos/2017/03-main-hall.jpg)
+<figcaption>The main hall</figcaption>
+</figure>
+
+<figure markdown>
+[![Posters in the corridor](../assets/photos/2017/04-posters-corridor.jpg)](../assets/photos/2017/04-posters-corridor.jpg)
+<figcaption>Posters in the corridor</figcaption>
+</figure>
+
+<figure markdown>
+[![A TV interview at the BIOCAD booth](../assets/photos/2017/05-tv-interview.jpg)](../assets/photos/2017/05-tv-interview.jpg)
+<figcaption>A TV interview at the BIOCAD booth</figcaption>
+</figure>
+
+<figure markdown>
+[![At the Illumina booth](../assets/photos/2017/06-illumina-booth.jpg)](../assets/photos/2017/06-illumina-booth.jpg)
+<figcaption>At the Illumina booth</figcaption>
+</figure>
+
+<figure markdown>
+[![Poster session](../assets/photos/2017/07-poster-session.jpg)](../assets/photos/2017/07-poster-session.jpg)
+<figcaption>Poster session</figcaption>
+</figure>
+
+<figure markdown>
+[![Poster session](../assets/photos/2017/08-poster-discussion.jpg)](../assets/photos/2017/08-poster-discussion.jpg)
+<figcaption>Poster session</figcaption>
+</figure>
 
 </div>
 
